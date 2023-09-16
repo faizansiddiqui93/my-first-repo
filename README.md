@@ -1,3 +1,3 @@
 # my-first-reposatry
-my name is faizan
+my name is faizan\n
 author faizan siddiqui
